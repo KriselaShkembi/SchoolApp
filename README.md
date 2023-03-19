@@ -1,9 +1,7 @@
-# SpringRestWebService
-Spring Restful Web Service
+# SchoolApp
 
-JAVA Spring Restful Web Service
+Armundia Factory Junior Java Developer Task 
 
-Simple Signup And Login System With Security Authentication
+An application dedicated to the headmaster to manage school, teachers, students and subject activities.
 
-Email Verification And Reset Password Features
-<br><a href="https://github.com/eugenmirce/SpringRestWebServiceVerificationAndReset">Verification Project</a>
+Swagger link: http://localhost:8080/swagger-ui/#/
